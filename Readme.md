@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyGridControl.cs](./CS/Q260885/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/Q260885/MyGridControl.vb))
+<!-- default file list end -->
 # How to emulate a TreeList  using the master-detail GridView
 
 
